@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Otávio Fogaça
+# 👋 Olá! Eu me chamo Otávio Fogaça
 
 Sou estudante de **Ciência da Computação**, com formação técnica em **Desenvolvimento de Sistemas** e interesse em desenvolvimento de software, inteligência artificial e tecnologia aplicada.
 
