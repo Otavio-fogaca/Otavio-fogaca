@@ -6,11 +6,11 @@ Sou estudante de **Ciência da Computação**, com formação técnica em **Dese
 
 ## 👨‍💻 Sobre mim
 
-* 🎓 Estudante de **Ciência da Computação**
-* 💻 Técnico em **Desenvolvimento de Sistemas**
-* 🔥 Atualmente aluno do Geração caldeira 2026 na trilha de IA e dados
-* 🤖 Interessado em **Inteligência Artificial e automação**
-* 🎵 Desenvolvedor do projeto **Groovelish**, uma plataforma que utiliza música como ferramenta para o aprendizado de inglês
+* Estudante de **Ciência da Computação**
+* Técnico em **Desenvolvimento de Sistemas**
+* Atualmente aluno do Geração caldeira 2026 na trilha de IA e dados
+* Interessado em **Inteligência Artificial e automação**
+* Desenvolvedor do projeto **Groovelish**, uma plataforma que utiliza música como ferramenta para o aprendizado de inglês
 
 ---
 
@@ -48,11 +48,11 @@ O projeto foi desenvolvido durante minha formação técnica em Desenvolvimento 
 
 ### Principais funcionalidades
 
-* 🔐 Sistema de autenticação de usuários
-* 👤 Gerenciamento de sessões
-* 📊 Acompanhamento do desempenho dos usuários
-* 🎵 Aprendizado de inglês através de músicas
-* 🗄️ Integração entre aplicação e banco de dados
+* Sistema de autenticação de usuários
+* Gerenciamento de sessões
+* Acompanhamento do desempenho dos usuários
+* Aprendizado de inglês através de músicas
+* Integração entre aplicação e banco de dados
 
 ### Tecnologias utilizadas
 
@@ -66,11 +66,11 @@ O projeto foi desenvolvido durante minha formação técnica em Desenvolvimento 
 
 Tenho interesse em explorar diferentes áreas da tecnologia, especialmente:
 
-* 🤖 Inteligência Artificial
-* 💻 Desenvolvimento de Software
-* 🌐 Desenvolvimento Web
-* ⚙️ Automação de processos
-* 🗣️ Linguística e tecnologia
+* Inteligência Artificial
+* Desenvolvimento de Software
+* Desenvolvimento Web
+* Automação de processos
+* Linguística e tecnologia
 
 ---
 
@@ -79,7 +79,3 @@ Tenho interesse em explorar diferentes áreas da tecnologia, especialmente:
 💼 **LinkedIn:** [https://www.linkedin.com/in/ot%C3%A1vio-foga%C3%A7a-da-rosa-217a28360/]
 
 📧 **E-mail:** [otaviofogacadarosa@gmail.com]
-
----
-
-> *"Learning by building."* 🚀
