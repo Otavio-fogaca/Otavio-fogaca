@@ -1,6 +1,6 @@
 # 👋 Olá! Eu me chamo Otávio Fogaça
 
-Sou estudante de **Ciência da Computação**, com formação técnica em **Desenvolvimento de Sistemas** e interesse em desenvolvimento de software, inteligência artificial e tecnologia aplicada.
+Estou me graduando em **Ciência da Computação**, com formação técnica em **Desenvolvimento de Sistemas** e interesse em desenvolvimento de software, inteligência artificial e tecnologia aplicada.
 
 ---
 
