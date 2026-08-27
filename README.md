@@ -8,7 +8,7 @@ Sou estudante de **Ciência da Computação**, com formação técnica em **Dese
 
 * Estudante de **Ciência da Computação**
 * Técnico em **Desenvolvimento de Sistemas**
-* Atualmente aluno do Geração caldeira 2026 na trilha de IA e dados
+* Atualmente **aluno do Geração caldeira 2026 na trilha de IA e dados**
 * Interessado em **Inteligência Artificial e automação**
 * Desenvolvedor do projeto **Groovelish**, uma plataforma que utiliza música como ferramenta para o aprendizado de inglês
 
